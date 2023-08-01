@@ -1,21 +1,21 @@
-<h1 align="center">Frederick Herchuk</h1>
+<h1 align="center">< welcome ></h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-frederick""herchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frederick-herchuk-723821257/)](https://www.linkedin.com/in/frederick-herchuk-723821257/)
-<img align="right" src="https://komarev.com/ghpvc/?username=fherchuk&label=Profile%20views&color=20b994&style=flat" alt="fherchuk" />
-<br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frederick-herchuk-723821257/)](https://www.linkedin.com/in/frederick-herchuk-723821257/) [![Gmail Badge](https://img.shields.io/badge/-rickherchuk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rickherchuk@gmail.com)](mailto:rickherchuk@gmail.com)
 
-<h3>Statistical Data</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=fherchuk&hide=cmake,makefile&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="fherchuk" 
-    bg_color=#808080/></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fherchuk&hide=cmake,makefile&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="fherchuk"/>
+<h3>About me</h3>
+My name is Frederick Herchuk and I am currently a computer science student at the University of Rhode Island. I enjoy creating and innovating computer applications and am always learning through hands on expeprience.
 
-<br>
+<h3>Projects</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fherchuk&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="fherchuk" /></p>
+- [Sparse Matrices Implementation and Presentation in C++](https://github.com/fherchuk/SparseMatrixCalculator)
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="csharp" width="48" height="48"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/> </a>
+<br><br><br>
+- [Chrome Browser Extension in JavaScript/HTML/CSS](https://github.com/fherchuk/PasswordGenerator)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/></a>
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fherchuk&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="fherchuk" /></p>
     
