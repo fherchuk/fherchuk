@@ -1,6 +1,6 @@
 <h1 align="center">Frederick Herchuk</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-frederickherchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frederick-herchuk-723821257/)](https://www.linkedin.com/in/frederick-herchuk-723821257/)
+[![Linkedin Badge](https://img.shields.io/badge/-frederick""herchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frederick-herchuk-723821257/)](https://www.linkedin.com/in/frederick-herchuk-723821257/)
 <img align="right" src="https://komarev.com/ghpvc/?username=fherchuk&label=Profile%20views&color=20b994&style=flat" alt="fherchuk" />
 <br>
 
