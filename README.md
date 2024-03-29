@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frederick-herchuk-723821257/)](https://www.linkedin.com/in/frederick-herchuk-723821257/) [![Gmail Badge](https://img.shields.io/badge/-rickherchuk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rickherchuk@gmail.com)](mailto:rickherchuk@gmail.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fherchuk&hide=cmake,makefile&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="fherchuk"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fherchuk&size_weight=0.5&count_weight=1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="fherchuk"/>
 <h3>About me</h3>
 My name is Frederick Herchuk and I am currently a computer science student at the University of Rhode Island. I enjoy creating and innovating computer applications and am always learning through hands on expeprience.
 
