@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fherchuk&size_weight=1&count_weight=1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="fherchuk"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fherchuk&size_weight=0.5&count_weight=1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="fherchuk"/>
 
 <h2>About Me</h2>
 <p>
